@@ -89,7 +89,13 @@ h1{
     flex-wrap: wrap;
     margin-left: center;
     display: flex;
-}
+  }
+  .rows {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 .Header-content {
   display: flex;
